@@ -1,0 +1,94 @@
+{
+  "records": [
+    {
+      "type": "income",
+      "description": "bla",
+      "amount": 120.0
+    },
+    {
+      "type": "income",
+      "description": "lilili",
+      "amount": 120.0
+    },
+    {
+      "type": "income",
+      "description": "blblbl",
+      "amount": 120.0
+    },
+    {
+      "type": "expanse",
+      "description": "nknknkn",
+      "amount": 2360.0
+    },
+    {
+      "type": "income",
+      "description": "new shoes",
+      "amount": 120.0
+    },
+    {
+      "type": "expanse",
+      "description": "pizza",
+      "amount": 120.0
+    },
+    {
+      "type": "income",
+      "description": "dingdong",
+      "amount": 22000.0
+    },
+    {
+      "type": "income",
+      "description": "falafel",
+      "amount": 26000.0
+    },
+    {
+      "type": "income",
+      "description": "door",
+      "amount": 600.0
+    },
+    {
+      "type": "income",
+      "description": "good",
+      "amount": 400.0
+    },
+    {
+      "type": "income",
+      "description": "vered",
+      "amount": 500.0
+    },
+    {
+      "type": "income",
+      "description": "rt",
+      "amount": 300.0
+    },
+    {
+      "type": "expanse",
+      "description": "hj",
+      "amount": 560.0
+    },
+    {
+      "type": "income",
+      "description": "tutu",
+      "amount": 600.0
+    },
+    {
+      "type": "expanse",
+      "description": "nono",
+      "amount": 100000.0
+    },
+    {
+      "type": "income",
+      "description": "jj",
+      "amount": 600.0
+    },
+    {
+      "type": "income",
+      "description": "try",
+      "amount": 100000.0
+    },
+    {
+      "type": "income",
+      "description": "lalalal",
+      "amount": 1000.0
+    }
+  ]
+}
